@@ -26,11 +26,11 @@ main:
     weight: 20
   - name: News
     parent: media
-    url: media/post/
+    url: post
     weight: 20
 
   - name: Events
     parent: media
-    url: media/event
+    url: event
     weight: 40
   
