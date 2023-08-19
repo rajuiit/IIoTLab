@@ -31,7 +31,7 @@ sections:
       # For the Showcase view, do you want to flip alternate rows?
       flip_alt_rows: true
 
-  - block: collection
+  - block: markdown
     id: section-2
     content:
       title: Mission
