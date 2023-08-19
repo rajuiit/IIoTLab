@@ -1,9 +1,9 @@
 ---
-title: Raju Hendricks Wins First Place in the Wowchemy Prize
+title: Distributed Energy
 date: 2020-12-01
 ---
 
-Congratulations to Raju Hendricks for winning first place in the Wowchemy Prize.
+Green energy is any energy type that is generated from natural resources, such as sunlight, wind or water. It often comes from renewable energy sources although there are some differences between renewable and green energy, which we will explore, below.
 
 <!--more-->
 
