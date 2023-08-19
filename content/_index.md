@@ -36,7 +36,7 @@ sections:
       view: card
       columns: '1'
 
-    - block: collection
+  - block: collection
     content:
       title: Research Themes
       subtitle:
