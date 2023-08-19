@@ -1,0 +1,52 @@
+# Navigation Links
+#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
+#     desired widget in your `content/home/` folder.
+#   The weight parameter defines the order that the links will appear in.
+
+main:
+  - name: Home
+    url: 
+    weight: 10
+  - name: Gallary
+    url: tour
+    weight: 20
+  
+  - name: People
+    url: people
+    weight: 30
+  
+  - name: Publications
+    url: publication
+    weight: 40
+  - name: Contact
+    url: contact
+    weight: 100
+  
+  - name: Media
+    identifier: media
+    weight: 70
+  - name: News
+    parent: media
+    url: post
+    weight: 80
+  - name: Events
+    parent: media
+    url: event
+    weight: 90
+
+  - name: Achievements
+    identifier: ach
+    weight: 50
+  - name: Grants
+    parent: ach
+    url: grant
+    weight: 20
+  - name: Awards
+    parent: ach
+    url: award
+    weight: 40
+
+  - name: Open Positions
+    url: position
+    weight: 60
+  
