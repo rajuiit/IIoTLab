@@ -14,7 +14,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Student
+role: Post Doc
 
 # Organizations/Affiliations
 organizations:
