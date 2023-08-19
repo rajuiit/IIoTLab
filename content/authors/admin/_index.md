@@ -30,13 +30,13 @@ education:
   courses:
     - course: PhD 
       institution: Queensland University of Technology
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+      year: xyz
+    - course: xyz
+      institution: xyz
+      year: xyz
+    - course: BSc xyz
+      institution: xyz
+      year: xyz
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
