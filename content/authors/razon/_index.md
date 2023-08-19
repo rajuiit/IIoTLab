@@ -28,6 +28,7 @@ interests:
   - Artificial Intelligence
   - Microservices
   - Cloud Computing
+  - Fog Computing
 
 education:
   courses:
