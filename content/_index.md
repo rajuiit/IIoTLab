@@ -36,8 +36,6 @@ sections:
       view: card
       columns: '1'
 
-
-  
   - block: collection
     content:
       title: Latest News
