@@ -8,7 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        Welcome to IIoT 5.0, QUT
+        Welcome to IIoT 5.0 Lab, QUT
       image:
         filename: welcome.jpg
       text: |
