@@ -8,8 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        IIoT 5.0
-        Research Group
+        Welcome to IIoT 5.0, QUT
       image:
         filename: welcome.jpg
       text: |
