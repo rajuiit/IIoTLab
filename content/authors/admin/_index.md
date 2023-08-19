@@ -1,34 +1,35 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Alistair Barros
 
 # Full Name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+first_name: Alistair
+last_name: Barros
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Professor and Head of School, Information Systems
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: Queensland University of Technology
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Information Systems, Microservices, and Distributed Energy.
 
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Information Systems
+  - Microservices
+  - Distributed Energy
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
+    - course: PhD 
+      institution: Queensland University of Technology
       year: 2012
     - course: MEng in Artificial Intelligence
       institution: Massachusetts Institute of Technology
