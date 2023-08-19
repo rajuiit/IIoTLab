@@ -8,7 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
+        IIoT 5.0
         Research Group
       image:
         filename: welcome.jpg
