@@ -28,8 +28,8 @@ sections:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: World-Class Semiconductor Lab
-        content: 'Just opened last month!'
+      - title: World-Class IIoT Lab
+        content: 'Beginning your journey with us!'
         align: right
         background:
           image:
