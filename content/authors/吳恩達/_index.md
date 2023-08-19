@@ -8,7 +8,7 @@ last_name: Hossain
 
 # Username (this should match the folder name)
 authors:
-  - 吳恩達
+  - razon
 
 # Is this the primary user of the site?
 superuser: false
