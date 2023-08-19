@@ -7,7 +7,7 @@ main:
   - name: Home
     url: 
     weight: 10
-  - name: Gallary
+  - name: Tour
     url: tour
     weight: 20
   - name: News
