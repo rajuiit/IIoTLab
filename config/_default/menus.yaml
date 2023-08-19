@@ -10,25 +10,27 @@ main:
   - name: Gallary
     url: tour
     weight: 20
-  - name: News
-    url: post
-    weight: 20
+  
   - name: People
     url: people
     weight: 30
-  - name: Events
-    url: event
-    weight: 40
+  
   - name: Publications
     url: publication
     weight: 50
   - name: Contact
     url: contact
     weight: 60
-  - name: Tags
-    identifier: tags
+  - name: Media
+    identifier: media
     weight: 20
-  - name: Academic
-    parent: tags
-    url: tags/academic/
-    weight: 10
+  - name: News
+    parent: media
+    url: media/post/
+    weight: 20
+
+  - name: Events
+    parent: media
+    url: media/event
+    weight: 40
+  
