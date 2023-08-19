@@ -1,11 +1,11 @@
 ---
-title: Jian Yang and Monica Hall Win the Best Paper Award at Wowchemy 2020
+title: Industry 5.0
 date: 2020-12-02
 image:
   focal_point: 'top'
 ---
 
-Congratulations to Jian Yang and Monica Hall for winning the Best Paper Award at the 2020 Conference on Wowchemy for their paper “Learning Wowchemy”.
+Industry 5.0 refers to robot and smart machines working alongside people with added resilience and sustainability goals included. Where Industry 4.0 focused on technologies such as the Internet of Things and big data, Industry 5.0 seeks to add human, environmental and social aspects back into the equation.
 
 <!--more-->
 
