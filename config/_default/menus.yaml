@@ -9,7 +9,7 @@ main:
     weight: 10
   - name: Gallary
     url: tour
-    weight: 10
+    weight: 20
   - name: News
     url: post
     weight: 20
