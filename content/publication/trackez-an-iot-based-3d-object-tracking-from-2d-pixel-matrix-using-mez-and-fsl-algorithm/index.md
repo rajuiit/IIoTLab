@@ -4,7 +4,7 @@ title: "Trackez: An IoT-based 3D-Object Tracking from 2D Pixel Matrix using Mez
 publication_types:
   - "1"
 authors:
-  - AlistairBarros
+  - admin
 draft: false
 featured: false
 image:
