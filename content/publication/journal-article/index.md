@@ -63,7 +63,6 @@ projects: []
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides:
-
 ---
 
 {{% callout note %}}
